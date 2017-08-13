@@ -1,6 +1,4 @@
 # Trigonometry Functions
-
-
 def degToRads(degrees)
 	return degrees*Math::PI/180
 end
